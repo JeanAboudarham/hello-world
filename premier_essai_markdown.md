@@ -41,4 +41,7 @@ $$\sum_{i=1}^n X_i$$
 
 \[\sum_{i=1}^n X_i\]
 
+$\alpha$
+\(\alpha\)
+
 Fin du texte
