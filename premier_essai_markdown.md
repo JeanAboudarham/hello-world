@@ -13,9 +13,11 @@ un hyperlien vers [le cours sur le markup language](https://enacit.epfl.ch/cours
 
 Une image : 
 <!-- dans () aussi bien lien hypertexte que lien vers un fichier local ? -->
-
+<!--
 ![légende de l'image](https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg?uselang=fr)
+-->
 
+![légende de l'image](Koulibiak.jpg)
 ### Quelques listes
 
 - premier élément ;
