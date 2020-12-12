@@ -5,7 +5,7 @@
 ### Titre d'une sous-sous-section
 
 Et ici du texte en *italique* ou _italique_ ou **gras** ou __gras__, à `chasse` fixe.
-On peut aussi --barrer-- du texte
+On peut aussi ~~barrer~~ du texte
 
 un hyperlien vers [le cours sur le markup language](https://enacit.epfl.ch/cours/markdown-pandoc/)
 
@@ -13,11 +13,13 @@ un hyperlien vers [le cours sur le markup language](https://enacit.epfl.ch/cours
 
 Une image : 
 <!-- dans () aussi bien lien hypertexte que lien vers un fichier local ? -->
-<!--
+
 ![légende de l'image](https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg?uselang=fr)
+
+<!--
+![légende de l'image](Koulibiak.jpg) Mais l'image doit se trouver dans hello-world/blob/master ! 
 -->
 
-![légende de l'image](Koulibiak.jpg)
 ### Quelques listes
 
 - premier élément ;
