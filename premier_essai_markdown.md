@@ -30,6 +30,15 @@ Une image :
   - sous-liste créée avec une tabulation ;
   - suite de la sous-liste.
 3. fin de la liste.
-  
 
-FIn du texte
+Cette expression $\sum_{i=1}^n X_i$ est inlinée.
+
+\(\sum_{i=1}^n X_i\)
+
+Cette expression est mise en valeur :
+
+$$\sum_{i=1}^n X_i$$
+
+\[\sum_{i=1}^n X_i\]
+
+Fin du texte
