@@ -13,7 +13,7 @@ un hyperlien vers [le cours sur le markup language](https://enacit.epfl.ch/cours
 
 Une image : (dans () aussi bien lien hypertexte que lien vers un fichier local ? )
 
-![légende de l'image](https://www.fun-mooc.fr/static/funsite/images/logos/funmooc173.7365ac563f8f.png)
+![légende de l'image](https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg?uselang=fr)
 
 Quelques listes :
 
