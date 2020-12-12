@@ -9,13 +9,14 @@ On peut aussi --barrer-- du texte
 
 un hyperlien vers [le cours sur le markup language](https://enacit.epfl.ch/cours/markdown-pandoc/)
 
-<!-- Commentaire --!>
+<!-- Commentaire -->
 
-Une image : (dans () aussi bien lien hypertexte que lien vers un fichier local ? )
+Une image : 
+<!-- dans () aussi bien lien hypertexte que lien vers un fichier local ? -->
 
 ![légende de l'image](https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg?uselang=fr)
 
-Quelques listes :
+### Quelques listes
 
 - premier élément ;
 - 2ème.
