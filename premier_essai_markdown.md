@@ -4,6 +4,7 @@
 
 ### Titre d'une sous-sous-section
 
+
 Et ici du texte en *italique* ou _italique_ ou **gras** ou __gras__, à `chasse` fixe.
 On peut aussi ~~barrer~~ du texte
 
@@ -31,7 +32,12 @@ Une image :
   - suite de la sous-liste.
 3. fin de la liste.
 
-Cette expression $\sum_{i=1}^n X_i$ est inlinée.
+## Une nouvelle partie sur les maths
+(*Mais qui n'a pas l'air de marcher !*)
+
+Cette expression $\sum_{i=1}^n X_i$ est inclinée.
+
+Essai de $x^2$
 
 \(\sum_{i=1}^n X_i\)
 
