@@ -35,7 +35,7 @@ Une image :
 ## Une nouvelle partie sur les maths
 (*Mais qui n'a pas l'air de marcher !*)
 
-Cette expression $\sum_{i=1}^n X_i$ est inclinée.
+Cette expression $\sum_{i=1}^n X_i$ est in-linée.
 
 Essai de $x^2$
 
